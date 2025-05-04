@@ -1,0 +1,10 @@
+.content {
+    font-family: "Inter", sans-serif;
+}
+
+:root {
+    --primary-hue: 212deg;
+    --primary-saturation: 92%;
+    --primary-lightness: 42%;
+    --hx-font-sans: inter;
+}

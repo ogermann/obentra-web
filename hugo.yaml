@@ -1,0 +1,107 @@
+baseURL: https://obentra.ch/
+languageCode: de-ch
+defaultContentLanguage: de
+enableRobotsTXT: true
+title: OBENTRA
+
+outputs:
+  home: [HTML]
+  page: [HTML]
+  section: [HTML, RSS]
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.134.0"
+
+  workspace: hugo.work
+  imports:
+    - path: github.com/imfing/hextra
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        delimiters:
+          block: [['\[', '\]'], ['$$', '$$']]
+          inline: [['\(', '\)']]
+        enable: true
+
+enableInlineShortcodes: true
+
+menu:
+  main:
+#    - name: About
+#      pageRef: /about
+#      weight: 1
+    - name: Search
+      weight: 2
+      params:
+        type: search
+
+  sidebar:
+    - identifier: more
+      name: More
+      params:
+        type: separator
+      weight: 1
+    - identifier: about
+      name: "About"
+      pageRef: "/about"
+      weight: 2
+
+params:
+  description: IT Beratungen & System Architektur. Fortschrittliche IT Lösungen für Ihr Unternehmen.
+
+  navbar:
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: images/obentra_light.svg
+      dark: images/obentra_dark.svg
+      link: /
+      width: 120
+      height: 40
+    width: wide
+
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: normal
+
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: false
+    width: normal
+
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
+
+blog:
+  list:
+    displayTags: true
+    # date | lastmod | publishDate | title | weight
+    sortBy: date
+    sortOrder: desc # or "asc"
+
+  article:
+    displayPagination: true
+
+  highlight:
+    copy:
+      enable: true
+      # hover | always
+      display: hover
