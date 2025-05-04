@@ -1,6 +1,6 @@
 ---
-title: Startseite
-description: Obentra GmbH. Komplexe IT. Einfach.
+title: Obentra - Komplexe IT. Einfach.
+description: Obentra unterstützt Unternehmen und öffentliche Einrichtungen bei Digitalisierung, IT-Strategie, KI-Projekten und der Modernisierung von IT-Systemen.
 layout: hextra-home
 ---
 
@@ -19,7 +19,7 @@ Verstehen. Beraten. Umsetzen.
 
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
-Obentra unterstützt Sie dabei, digitale Strukturen zu gestalten, <br class="hx:sm:block hx:hidden" />die nachhaltig funktionieren – pragmatisch, verlässlich und zukunftsorientiert.
+Obentra unterstützt Unternehmen und öffentliche Einrichtungen dabei, <br class="hx:sm:block hx:hidden" />IT-Strukturen neu zu denken, bestehende Lösungen zu verbessern und digitale Potenziale gezielt zu nutzen.
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -67,7 +67,7 @@ style="background: radial-gradient(ellipse at 50% 80%,rgba(7,216,221,0.15),hsla(
 
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
-  IT muss nicht kompliziert sein. Oft fehlt nicht das Verständnis, sondern die passende Übersetzung. Obentra macht Technik verständlich – und Entscheidungsprozesse fundiert. <br class="hx:sm:block hx:hidden" /><br class="hx:sm:block hx:hidden" />Als Ingenieure und Architekten denken wir in Strukturen, Lösungen und Wirkung. Wir schlagen die Brücke zwischen der technischen Welt und den Anforderungen von Fachbereichen, Führungskräften oder Verwaltungen. So entstehen digitale Lösungen, die nicht nur funktionieren, sondern auch verstanden, mitgetragen und langfristig weiterentwickelt werden können.
+  IT ist nicht zu komplex – sie braucht nur die richtige Übersetzung. <br class="hx:sm:block hx:hidden" />Obentra baut Brücken zwischen Technik und Praxis, zwischen Fachsprache und Verständlichkeit. <br class="hx:sm:block hx:hidden" />Als Ingenieure und Architekten denken wir lösungsorientiert und begleiten Sie von der Idee bis zur tragfähigen Umsetzung.
 {{< /hextra/hero-subtitle >}}
 </div>
 

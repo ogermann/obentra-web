@@ -1,5 +1,6 @@
 ---
 title: "Kontakt"
+description: "Kontaktieren Sie die Obentra GmbH für Fragen oder Anfragen."
 url: "/contact/"
 layout: "default"
 ---
