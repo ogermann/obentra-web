@@ -55,6 +55,7 @@ menu:
         type: separator
       weight: 1
     - identifier: Startseite
+      name: Startseite
       pageRef: /
       weight: 2
     - identifier: Impressum

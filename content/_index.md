@@ -18,7 +18,7 @@ Verstehen. Beraten. Umsetzen.
 
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
-Obentra unterstützt Unternehmen und öffentliche Einrichtungen dabei, <br class="hx:sm:block hx:hidden" />IT-Strukturen neu zu denken, bestehende Lösungen zu optimieren und digitale Potenziale gezielt zu nutzen.
+Obentra unterstützt Unternehmen und öffentliche Einrichtungen dabei, <wbr><br class="hx:sm:block hx:hidden" />IT-Strukturen neu zu denken, bestehende Lösungen zu optimieren und digitale Potenziale gezielt zu nutzen.
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -66,7 +66,7 @@ style="background: radial-gradient(ellipse at 50% 80%,rgba(7,216,221,0.15),hsla(
 
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
-  IT ist nicht zu komplex – sie braucht nur die richtige Übersetzung. <br class="hx:sm:block hx:hidden" />Obentra baut Brücken zwischen Technik und Praxis, zwischen Fachsprache und Verständlichkeit. <br class="hx:sm:block hx:hidden" />Als Ingenieure und Architekten denken wir lösungsorientiert und begleiten Sie von der Idee bis zur tragfähigen Umsetzung.
+  IT ist nicht zu komplex – sie braucht nur die richtige Übersetzung. <wbr><br class="hx:sm:block hx:hidden" />Obentra baut Brücken zwischen Technik und Praxis, zwischen Fachsprache und Verständlichkeit. <wbr><br class="hx:sm:block hx:hidden" />Als Ingenieure und Architekten denken wir lösungsorientiert und begleiten Sie von der Idee bis zur tragfähigen Umsetzung.
 {{< /hextra/hero-subtitle >}}
 </div>
 
