@@ -38,21 +38,31 @@ menu:
 #    - name: About
 #      pageRef: /about
 #      weight: 1
-    - name: Search
+    - name: Startseite
+      pageRef: /
+      weight: 1
+    - name: Kontakt
+      pageRef: /contact
       weight: 2
+    - name: Search
+      weight: 3
       params:
         type: search
 
   sidebar:
-    - identifier: more
-      name: More
+    - name: Mehr
       params:
         type: separator
       weight: 1
-    - identifier: about
-      name: "About"
-      pageRef: "/about"
+    - identifier: Startseite
+      pageRef: /
       weight: 2
+    - identifier: Impressum
+      pageRef: impressum
+      weight: 3
+    - identifier: Datenschutzerklärung
+      pageRef: privacy-policy
+      weight: 4
 
 params:
   description: IT Beratungen & System Architektur. Fortschrittliche IT Lösungen für Ihr Unternehmen.
