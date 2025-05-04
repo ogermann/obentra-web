@@ -61,8 +61,8 @@ params:
     displayTitle: false
     displayLogo: true
     logo:
-      path: images/obentra_light.svg
-      dark: images/obentra_dark.svg
+      path: images/logo.svg
+      dark: images/logo-dark.svg
       link: /
       width: 120
       height: 40
