@@ -131,7 +131,7 @@ Schweiz
 <form action="https://formsubmit.co/ec53aecd96e0a715f382725b5f60bd58?no-ip" method="POST" class="contact-form">
   <input type="hidden" name="_captcha" value="false">
   <input type="hidden" name="_subject" value="Kontaktanfrage über die Website">
-  <input type="hidden" name="_next" value="https://obentra.ch/form-submit-success">
+  <input type="hidden" name="_next" value="https://www.obentra.ch/form-submit-success">
 
 <label for="name">Ihr Name</label>
 <input type="text" id="name" name="name" required>
