@@ -41,11 +41,14 @@ menu:
     - name: Startseite
       pageRef: /
       weight: 1
+    - name: AGB
+      pageRef: /agb
+      weight: 2
     - name: Kontakt
       pageRef: /contact
-      weight: 2
-    - name: Search
       weight: 3
+    - name: Search
+      weight: 4
       params:
         type: search
 
