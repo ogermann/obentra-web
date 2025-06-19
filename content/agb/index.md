@@ -3,12 +3,12 @@ title: "Allgemeine Geschäftsbedingungen (AGB)"
 description: Allgemeine Geschäftsbedinungen der Obentra GmbH"
 url: "/agb/"
 layout: "default"
-date: 2025-06-04
+date: 2025-06-19
 draft: false
 ---
 
 **Obentra GmbH, Baslerstrasse 45, 4600 Olten**  
-**Stand: 04. Juni 2025**
+**Stand: 19. Juni 2025**
 
 ## 1. Geltungsbereich
 Diese AGB gelten für alle Angebote, Verträge und Leistungen der Obentra GmbH (nachfolgend „Auftragnehmerin“) gegenüber Geschäftskunden (nachfolgend „Kunde“), soweit nicht ausdrücklich schriftlich abweichende Vereinbarungen getroffen wurden. Entgegenstehende oder abweichende Bedingungen des Kunden werden nicht anerkannt.  
@@ -90,10 +90,28 @@ Die Auftragnehmerin darf Subunternehmer einsetzen, bleibt aber verantwortlich f�
 ## 18. Änderungsmanagement / Zusatzaufwände
 Änderungen am Leistungsumfang bedürfen der Schriftform. Zusatzaufwände werden nach vereinbartem Stundensatz abgerechnet.
 
-## 19. Verjährung
+## 19. Einsatzzeiten und Zuschläge
+Sofern nicht anders vereinbart, gelten die regulären Einsatzzeiten von Montag bis Freitag, 08:00 bis 18:00 Uhr (MEZ).
+Leistungen, die außerhalb der regulären Einsatzzeiten erbracht werden, werden mit folgenden Zuschlägen auf den 
+vereinbarten Stundensatz berechnet:
+
+| Zeitraum                             | Zuschlag auf Stundensatz   |
+|--------------------------------------|----------------------------|
+| **Mo–Fr, 06:00–08:00**               | +25 %                  |
+| **Mo–Fr, 18:00–22:00**               | +25 %                  |
+| **Samstag, 06:00–22:00**             | +50 %                  |
+| **Sonntag & Feiertage**  | +100 %                 |
+| **Nachtarbeit (22:00-06:00)**        | +100 %                 |
+
+Als Feiertage gelten die gesetzlichen Feiertage im Kanton Solothurn (Sitz der Auftragnehmerin).
+Hinweis: Zuschläge gelten nur für vom Kunden ausdrücklich angeforderte oder im Vorfeld vereinbarte Leistungen.
+Freiwillige Einsätze ausserhalb regulärer Zeiten können nach Ermessen des Auftragnehmers zum Basistarif abgerechnet werden.
+
+
+## 20. Verjährung
 Vertragliche Ansprüche verjähren nach 12 Monaten ab Fälligkeit.
 
-## 20. Schlussbestimmungen
+## 21. Schlussbestimmungen
 Änderungen und Ergänzungen dieser AGB bedürfen der Schriftform.  
 Sollte eine Klausel unwirksam sein, bleibt der Rest gültig.  
 Verbindliche Sprache ist Deutsch. Andere Übersetzungen dienen nur der Orientierung.
