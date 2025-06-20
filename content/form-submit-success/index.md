@@ -6,6 +6,9 @@ draft: false
 toc: false
 sidebar:
   exclude: true
+sitemap:
+    exclude: true
+    disable: true
 ---
 
 Ihre Nachricht wurde erfolgreich übermittelt.  

@@ -33,6 +33,10 @@ markup:
 
 enableInlineShortcodes: true
 
+disableKinds:
+  - taxonomy
+  - term
+
 menu:
   main:
 #    - name: About
