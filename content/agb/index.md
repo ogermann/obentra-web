@@ -104,7 +104,8 @@ vereinbarten Stundensatz berechnet:
 | **Nachtarbeit (22:00-06:00)**        | +100 %                 |
 
 Als Feiertage gelten die gesetzlichen Feiertage im Kanton Solothurn (Sitz der Auftragnehmerin).
-Hinweis: Zuschläge gelten nur für vom Kunden ausdrücklich angeforderte oder im Vorfeld vereinbarte Leistungen.
+
+*Hinweis:* Zuschläge gelten nur für vom Kunden ausdrücklich angeforderte oder im Vorfeld vereinbarte Leistungen.
 Freiwillige Einsätze ausserhalb regulärer Zeiten können nach Ermessen des Auftragnehmers zum Basistarif abgerechnet werden.
 
 
