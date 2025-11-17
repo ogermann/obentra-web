@@ -2,7 +2,7 @@ baseURL: https://www.obentra.ch/
 languageCode: de-ch
 defaultContentLanguage: de
 enableRobotsTXT: true
-title: OBENTRA
+title: OBENTRA - Komplexe IT. Einfach.
 
 outputs:
   home: [HTML]

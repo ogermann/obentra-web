@@ -59,9 +59,9 @@ style="background: radial-gradient(ellipse at 50% 80%,rgba(7,216,221,0.15),hsla(
 <div class="hx:mt-6"></div>
 
 <div class="hx:mt-12 hx:mb-6">
-{{< hextra/hero-headline >}}
+{{< hextra/hero-section >}}
   Warum Obentra?
-{{< /hextra/hero-headline >}}
+{{< /hextra/hero-section >}}
 </div>
 
 <div class="hx:mb-12">
