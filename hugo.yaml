@@ -1,8 +1,8 @@
-baseURL: https://www.obentra.ch/
+baseURL: https://obentra.ch/
 languageCode: de-ch
 defaultContentLanguage: de
 enableRobotsTXT: true
-title: OBENTRA - Komplexe IT. Einfach.
+title: OBENTRA - Energie in Arealen strukturieren und steuern
 
 outputs:
   home: [HTML]
@@ -73,7 +73,7 @@ menu:
       weight: 4
 
 params:
-  description: IT Beratungen & System Architektur. Fortschrittliche IT Lösungen für Ihr Unternehmen.
+  description: Strukturierte Energie- und Abrechnungssysteme für komplexe Areale. Software, Systemdesign und klare Verantwortlichkeiten.
 
   navbar:
     displayTitle: false
