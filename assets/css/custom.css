@@ -8,3 +8,70 @@
     --primary-lightness: 42%;
     --hx-font-sans: inter;
 }
+
+.qr-contact {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}
+
+.qr-contact__identity {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    text-align: center;
+}
+
+.qr-contact__name {
+    font-size: 1.5rem;
+    font-weight: 650;
+    line-height: 1.2;
+}
+
+.qr-contact__role,
+.qr-contact__company {
+    font-size: 1rem;
+    opacity: 0.9;
+}
+html.dark .qr-contact__role, html.dark .qr-contact__company, html.dark .qr-contact__links { opacity: .9; }
+
+.qr-contact__actions {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.qr-contact__btn {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.9rem 1rem;
+    border-radius: 0.9rem;
+    text-decoration: none;
+    font-weight: 600;
+    border: 1px solid rgba(0,0,0,0.12);
+}
+
+.qr-contact__btn--primary {
+    background: rgba(0,0,0,0.06);
+}
+
+.qr-contact__btn--secondary {
+    background: transparent;
+}
+
+html.dark .qr-contact__btn {
+    border-color: rgba(255,255,255,.16);
+    background: rgba(255,255,255,.08);
+}
+html.dark .qr-contact__btn--secondary { background: transparent; }
+
+.qr-contact__links {
+    font-size: 0.95rem;
+    opacity: 0.85;
+}
+
+.qr-contact__sep {
+    margin: 0 0.35rem;
+    opacity: 0.6;
+}
