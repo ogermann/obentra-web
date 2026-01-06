@@ -34,7 +34,7 @@ Ziel ist ein konsistentes Gesamtsystem, das Übersicht schafft, Arbeit erleichte
 
 <div class="hx:mt-12 hx:mb-6">
 {{< hextra/hero-section >}}
-  Leistungen
+  Arbeitsfelder
 {{< /hextra/hero-section >}}
 </div>
 {{< hextra/feature-grid >}}
@@ -64,7 +64,7 @@ style="background: radial-gradient(ellipse at 50% 80%,rgba(7,216,221,0.15),hsla(
 
 <div class="hx:mt-12 hx:mb-6">
 {{< hextra/hero-section >}}
-  Arbeitsweise
+  So arbeitet Obentra
 {{< /hextra/hero-section >}}
 </div>
 
@@ -78,7 +78,7 @@ Obentra übernimmt dabei keine operative Betriebsführung von Anlagen, sondern s
 
 <div class="hx:mt-12 hx:mb-6">
 {{< hextra/hero-section >}}
-  Zielgruppen
+  Obentra arbeitet für
 {{< /hextra/hero-section >}}
 </div>
 
@@ -91,7 +91,7 @@ Obentra übernimmt dabei keine operative Betriebsführung von Anlagen, sondern s
 
 <div class="hx:mt-12 hx:mb-6">
 {{< hextra/hero-section >}}
-  Obentra wird von Oliver Borner geführt.
+  Obentra wird von Oliver Borner geführt
 {{< /hextra/hero-section >}}
 </div>
 
