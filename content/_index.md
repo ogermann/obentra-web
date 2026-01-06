@@ -1,6 +1,6 @@
 ---
 title: Obentra - Energie in Arealen strukturieren und steuern
-description: Obentra entwickelt Software und Systemkonzepte für strukturierte Energie- und Abrechnungssysteme in Arealen. Fokus auf Transparenz, Steuerbarkeit und Nachvollziehbarkeit.
+description: Obentra entwickelt Software und Systemkonzepte für strukturierte Energie- und Abrechnungssysteme in Arealen mit Fokus auf Transparenz und Steuerbarkeit.
 layout: hextra-home
 ---
 
