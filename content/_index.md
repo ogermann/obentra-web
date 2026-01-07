@@ -28,7 +28,7 @@ Ohne saubere Struktur bleiben Verbräuche und Zustände unklar – Energie wird 
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
 Obentra arbeitet an der Schnittstelle von Messung, Abrechnung und Steuerung.<wbr><br class="hx:sm:block hx:hidden" />
-Ziel ist ein konsistentes Gesamtsystem, das Übersicht schafft, Arbeit erleichtert und Energieflüsse steuert.
+Ziel ist ein konsistentes Gesamtsystem, das Übersicht schafft, Energieflüsse steuert und Arbeit erleichtert.
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -97,7 +97,7 @@ Obentra übernimmt dabei keine operative Betriebsführung von Anlagen, sondern s
 
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}Er arbeitet seit vielen Jahren an komplexen Software- und Datensystemen mit wirtschaftlicher Verantwortung.
-Der Schwerpunkt liegt auf der Strukturierung und Steuerung von Energiedaten in Industriearealen.
+Der Schwerpunkt liegt auf der Strukturierung und Steuerung von Energie in Industriearealen.
 {{< /hextra/hero-subtitle >}}
 </div>
 
